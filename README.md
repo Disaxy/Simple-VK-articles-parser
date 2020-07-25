@@ -17,11 +17,11 @@
 
 ### Параметры
 * --group [Название группы] - название группы для парсинга
-* --timeout [Секунд ] - задержка между статьями
+* --timeout [Секунд] - задержка между статьями
 
 ***
 
 ### Установка
-`git clone https://github.com/Disaxy/Simple-VK-articles-parser.git`
-`cd Simple-VK-articles-parser/`
+`git clone https://github.com/Disaxy/Simple-VK-articles-parser.git`  
+`cd Simple-VK-articles-parser/`  
 `pip install -r requirements.txt`
